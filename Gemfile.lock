@@ -4,7 +4,7 @@ GIT
   branch: v2
   specs:
     jekyll-lunr-js-search (3.0.0)
-      nokogiri (~> 1.6)
+      nokogiri (~> 1.8.2)
       therubyracer (~> 0.12)
       yajl-ruby
 
@@ -103,7 +103,7 @@ GEM
     multi_json (1.11.2)
     multipart-post (2.0.0)
     nap (1.1.0)
-    nokogiri (1.7.1)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.1.0)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
